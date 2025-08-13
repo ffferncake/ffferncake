@@ -1,4 +1,4 @@
-<h3># 💌 Fern Nichanun</h3>
+<h3>💌 Fern Nichanun</h3>
 
 <h3>Skills</h3>
 <p>
